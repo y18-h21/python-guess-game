@@ -9,10 +9,6 @@ In this game, the computer generates a random number within a specified range, a
 -> Feedback on whether the guessed number is too high, too low, or correct.
 -> Option to play again after finishing the game.
 
-## Requirements
--> Python 3.x
--> No external libraries are required.
-
 ## How to Play
 -> Run the Python script.
 -> The computer will ask you to guess a number within a given range.
@@ -25,10 +21,10 @@ Clone the repository or download the guess_game.py script.
   git clone https://github.com/y18-h21/python-guess-game.git
 
 Navigate to the directory where the file is located:
-   cd random-guess-game
+   cd guess-game
 
 Run the game using Python:
-   python randomguess.py
+   python guess-game.py
    
 ## Code Explanation
 The game starts by generating a random number between 1 and 100 (you can adjust the range in the code).
